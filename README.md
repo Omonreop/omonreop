@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ## Hello there! 👋
 
 I'm **Rafly Purnomo Aji**, a passionate **Full Stack Developer**. I have a **Associate Degree of Computer Technology** and love learning new things, especially in the field of **web development**. Currently, I am looking for job opportunities where I can contribute my skills and grow professionally. 🚀
