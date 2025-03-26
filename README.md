@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 ## Hello there! 👋
 
 I'm **Rafly Purnomo Aji**, a passionate **Full Stack Developer**. I have a **Associate Degree of Computer Technology** and love learning new things, especially in the field of **web development**. Currently, I am looking for job opportunities where I can contribute my skills and grow professionally. 🚀
@@ -18,7 +19,6 @@ I'm **Rafly Purnomo Aji**, a passionate **Full Stack Developer**. I have a **Ass
 ### 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Omonreop&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omonreop&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>
 
 ⭐️ From [raflypurnomoaji](https://github.com/Omonreop)
