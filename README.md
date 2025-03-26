@@ -17,8 +17,8 @@ I'm **Rafly Purnomo Aji**, a passionate **Full Stack Developer**. I have a **Ass
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raflypurnomoaji&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflypurnomoaji&theme=tokyonight" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omonreop&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omonreop&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>
 
 ⭐️ From [raflypurnomoaji](https://github.com/Omonreop)
