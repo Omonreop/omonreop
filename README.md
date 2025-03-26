@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Omonreop/omonreop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there! 👋
 
-Here are some ideas to get you started:
+I'm **Rafly Purnomo Aji**, a passionate **Full Stack Developer**. I have a **Associate Degree of Computer Technology** and love learning new things, especially in the field of **web development**. Currently, I am looking for job opportunities where I can contribute my skills and grow professionally. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨🏽‍💻 About Me:
+- 🌱 I’m currently learning **Javascript Frameworks and PHP Frameworks**
+- 💼 Open to work opportunities in **Full Stack Development**
+- 🤝 Looking to collaborate on exciting web-based projects
+- 📫 Reach me at: [rafly.purnomo08@ggmail.com](mailto:your-email@example.com)
+
+### 🚀 Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,nodejs,php,codeigniter,mysql" alt="Skills">
+</p>
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raflypurnomoaji&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raflypurnomoaji&theme=tokyonight" width="48%" alt="GitHub Streak">
+</p>
+
+⭐️ From [raflypurnomoaji](https://github.com/Omonreop)
+
+
