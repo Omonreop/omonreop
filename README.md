@@ -10,7 +10,7 @@ I'm **Rafly Purnomo Aji**, a passionate **Full Stack Developer**. I have a **Ass
 
 ### 🚀 Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,nodejs,php,codeigniter,mysql" alt="Skills">
+  <img src="[https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,nodejs,php,codeigniter,mysql](https://skillicons.dev/icons?i=html,css,js,php,ts,python,java,c,bootstrap,tailwind,vue,react,laravel,nodejs,composer,mongodb,mysql,postgres,arduino" alt="Skills">
 </p>
 
 ### 📊 GitHub Stats:
